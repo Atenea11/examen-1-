@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Michoacan!</titlw>
+</head>
+<body>
+<h1>Mexico.</h1>
+<p>lo mejor del mundo.</p>
+<p id="special"viva mexico.</p>
+</body>
+</html>
